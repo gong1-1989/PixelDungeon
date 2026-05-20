@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Config/GameGlobal.json</file>
+    </qresource>
+</RCC>

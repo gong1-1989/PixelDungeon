@@ -1,0 +1,11 @@
+{
+    "Game":{
+    "FPS":60,
+    "WindowWidth":960,
+    "WindowHeight":640,
+    "Title":"像素地牢：无尽深渊"
+    },
+    "Physics":{
+        "PlayerSpeed":3.0
+    }
+}
