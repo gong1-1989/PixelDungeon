@@ -25,6 +25,9 @@ if(${QT_VERSION_MAJOR} GREATER_EQUAL 6)
         configmanager.h configmanager.cpp
         resoure.qrc
         mainwindow.h mainwindow.cpp mainwindow.ui
+        eventbus.h eventbus.cpp
+        IPlugin.h
+        pluginmanager.h pluginmanager.cpp
 
 
     )
