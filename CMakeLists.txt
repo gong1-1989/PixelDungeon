@@ -20,14 +20,15 @@ if(${QT_VERSION_MAJOR} GREATER_EQUAL 6)
     qt_add_executable(PixelDungeon
         MANUAL_FINALIZATION
         ${PROJECT_SOURCES}
-
-        basetype.h basetype.cpp
-        configmanager.h configmanager.cpp
         resoure.qrc
         mainwindow.h mainwindow.cpp mainwindow.ui
-        eventbus.h eventbus.cpp
-        IPlugin.h
-        pluginmanager.h pluginmanager.cpp
+        GameBase.h
+        GameTime.h
+        EventBus.h
+        gameinput.h gameinput.cpp
+
+        playerentity.h playerentity.cpp
+        configmanager.h configmanager.cpp
 
 
     )

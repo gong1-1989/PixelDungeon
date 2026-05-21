@@ -1,5 +1,6 @@
 <RCC>
     <qresource prefix="/">
         <file>Config/GameGlobal.json</file>
+        <file>Config/Level_01.json</file>
     </qresource>
 </RCC>

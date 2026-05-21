@@ -1,0 +1,9 @@
+{
+    "levelName":"废弃矿洞",
+    "PlayerStart":{"x":200,"y":200},
+    "tiles":[
+        {"type":"wall","x":300,"y":100,"width":60,"height":300 },
+        {"type":"wall","x":500,"y":200,"width":200,"height":40 },
+        {"type":"wall","x":100,"y":400,"width":300,"height":60 }
+    ]
+}
